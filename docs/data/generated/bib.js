@@ -15,3 +15,21 @@
         "year": "2016"
     }
 };
+const generatedBibEntries6 = {
+    "Beck2016Visual": {
+        "abstract": "Technologies associated with online learning have led to many new feedback practices and expanded the meaning of feedback beyond the traditional focus on instructor comments, but conceptual work on online feedback has not followed. This paper investigates how online learning researchers understand feedback’s role in teaching and learning, and discusses how these understandings influence what research questions are asked, and what online feedback practices are recommended. ",
+        "author": "Lasse X Jensen, Margaret Bearman, David Boud",
+        "doi": "https://doi.org/10.1016/j.compedu.2021.104271",
+        "journal": "IEEE Transactions on Visualization and Computer Graphics",
+        "keywords": "type:article, visual_analytics, sparklines, information_retrieval, clustering, literature_browser",
+        "number": "06",
+        "publisher": "IEEE",
+        "series": "TVCG",
+        "title": "Understanding feedback in online learning – A critical review and metaphor analysis  ",
+        "type": "article",
+        "url": "https://aircconline.com/ijcsit/V8N4/8416ijcsit03.pdf",
+        "volume": "22",
+        "year": "2021"
+    }
+    
+};
